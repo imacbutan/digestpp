@@ -2,6 +2,7 @@
 This code is written by kerukuro and released into public domain.
 */
 
+#include <cstdint>
 #ifndef DIGESTPP_PROVIDERS_SHA3_CONSTANTS_HPP
 #define DIGESTPP_PROVIDERS_SHA3_CONSTANTS_HPP
 
