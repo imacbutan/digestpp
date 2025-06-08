@@ -5,6 +5,7 @@ This code is written by kerukuro and released into public domain.
 #ifndef DIGESTPP_PROVIDERS_SHA3_HPP
 #define DIGESTPP_PROVIDERS_SHA3_HPP
 
+#include <cstdint>
 #include "../../detail/functions.hpp"
 #include "../../detail/absorb_data.hpp"
 #include "../../detail/validate_hash_size.hpp"
