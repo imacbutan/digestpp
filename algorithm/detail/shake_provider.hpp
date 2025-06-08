@@ -5,6 +5,7 @@ This code is written by kerukuro and released into public domain.
 #ifndef DIGESTPP_PROVIDERS_SHAKE_HPP
 #define DIGESTPP_PROVIDERS_SHAKE_HPP
 
+#include <cstdint>
 #include "../../detail/functions.hpp"
 #include "../../detail/absorb_data.hpp"
 #include "sha3_provider.hpp"
